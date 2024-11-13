@@ -16,7 +16,7 @@ for my different projects here. For a more detailed bio and info about all the p
 ### Contact 📫
 - ✉️ Email: [kylie.ainslie@rivm.nl](mailto:kylie.ainslie@rivm.nl) or [kainslie@hku.hk](mailto:kainslie@hku.hk)
 - LinkedIn: [https://www.linkedin.com/in/kylieainslie/](https://www.linkedin.com/in/kylieainslie/)
-- 💬 Twitter: [@DrKAinslie](https://twitter.com/DrKAinslie)
+- 💬 Bluesky: [@kylieainslie](https://bsky.app/profile/kylieainslie.bsky.social)
 - 🌏 Website: [kylieainslie.github.io](kylieainslie.github.io)
 
 
